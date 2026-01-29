@@ -21,8 +21,7 @@
 
 - **Student**: Information Technology of Danang university of Science and Technology
 - **Focus**: Developing high-performance Backend systems & Microservices.
-- **Philosophy**: Clean code, SOLID principles, and DRY.
-- **Current Project**: Building a social media backend with Spring Boot & Redis.
+- **Philosophy**: Clean code, SOLID principles, DRY and apply Design Pattern.
 
 ---
 
