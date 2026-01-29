@@ -42,10 +42,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DamPhuQuy&layout=compact&theme=transparent&hide_border=true&title_color=00D1FF&text_color=ffffff" width="41%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DamPhuQuy&theme=transparent&hide_border=true&stroke=00D1FF&ring=00D1FF&fire=00D1FF&currStreakLabel=00D1FF" width="90%" />
-</p>
-
 ---
 
 ### Let's Connect
