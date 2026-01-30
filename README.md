@@ -35,15 +35,6 @@
 
 ---
 
-### GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DamPhuQuy&show_icons=true&theme=transparent&hide_border=true&title_color=00D1FF&icon_color=00D1FF&text_color=ffffff" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DamPhuQuy&layout=compact&theme=transparent&hide_border=true&title_color=00D1FF&text_color=ffffff" width="41%" />
-</p>
-
----
-
 ### Let's Connect
 
 <p align="left">
