@@ -29,8 +29,8 @@
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Backend** | <img src="https://skillicons.dev/icons?i=java,spring,go,ts,nodejs,express,nestjs" /> |
-| **Database** | <img src="https://skillicons.dev/icons?i=postgres,redis,mysql" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=java,spring,maven,gradle" /> |
+| **Database** | <img src="https://skillicons.dev/icons?i=postgres,mysql" /> | 
 | **DevOps & Tools** | <img src="https://skillicons.dev/icons?i=docker,git,github,postman,swagger" /> |
 
 ---
