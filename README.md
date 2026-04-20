@@ -44,6 +44,11 @@
 <!-- <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="30" width="40" /></a> -->
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DamPhuQuy&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DamPhuQuy&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" height="180" />
+</p>
+
 <p align="right">
   <i>"Talk is cheap. Show me the code." - Linus Torvalds</i>
 </p>
