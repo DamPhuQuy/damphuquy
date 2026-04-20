@@ -4,51 +4,50 @@
 
 <p align="center">
   <a href="https://github.com/DamPhuQuy">
-    <img src="https://img.shields.io/badge/Status-Learning-green?style=flat-square" />
+    <img src="https://img.shields.io/badge/GitHub-DamPhuQuy-2D2D2D?style=for-the-badge&logo=github&logoColor=white" alt="github" />
   </a>
   <a href="mailto:phuquydam06@gmail.com">
-    <img src="https://img.shields.io/badge/Contact-Email-blue?style=flat-square" />
+    <img src="https://img.shields.io/badge/Email-phuquydam06%40gmail.com-FF5A5F?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
   </a>
 </p>
 
 <p align="center">
-  <i>Building clean, scalable systems — one API at a time</i>
+  <b>Designing reliable backend systems with clean architecture, practical performance, and product-first thinking.</b>
 </p>
 
 ---
 
-### About Me
+## About Me
 
-- **Student**: Information Technology of Danang university of Science and Technology
-- **Focus**: Developing high-performance Backend systems & Microservices.
-- **Philosophy**: Clean code, SOLID principles, DRY and apply Design Pattern.
-
----
-
-### Tech Stack
-
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Backend** | <img src="https://skillicons.dev/icons?i=java,spring,py,scala,go,ts" /> |
-| **Build Tools** | <img src="https://skillicons.dev/icons?i=maven,gradle" /> | 
-| **Database** | <img src="https://skillicons.dev/icons?i=postgres,mysql" /> | 
-| **DevOps & Tools** | <img src="https://skillicons.dev/icons?i=docker,git,github,postman,swagger" /> |
+- Student at The University of Danang - University of Science and Technology.
+- Focused on backend engineering, scalable APIs, and microservice architecture.
+- Strong believer in clean code, SOLID principles, DRY, and pragmatic design patterns.
 
 ---
 
-### Let's Connect
+## Tech Stack
 
 <p align="left">
-<a href="https://github.com/DamPhuQuy" target="blank"><img align="center" src="https://skillicons.dev/icons?i=github" alt="DamPhuQuy" height="30" width="40" /></a>
-<a href="mailto:phuquydam06@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="phuquydam06@gmail.com" height="30" width="40" /></a>
-<!-- <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="30" width="40" /></a> -->
+  <img src="https://skillicons.dev/icons?i=java,spring,ts,py,go,scala" alt="languages" />
 </p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=maven,gradle,postgres,mysql,docker,git,github,postman" alt="tools" />
+</p>
+
+---
+
+## GitHub Snapshot
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DamPhuQuy&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DamPhuQuy&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DamPhuQuy&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=FF5A5F&icon_color=FF5A5F&text_color=2D2D2D" alt="github-stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DamPhuQuy&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=FF5A5F&text_color=2D2D2D&hide=html,css" alt="top-langs" height="170" />
 </p>
 
-<p align="right">
-  <i>"Talk is cheap. Show me the code." - Linus Torvalds</i>
-</p>
+---
+
+## Let's Connect
+
+- GitHub: [github.com/DamPhuQuy](https://github.com/DamPhuQuy)
+- Email: [phuquydam06@gmail.com](mailto:phuquydam06@gmail.com)
+
+<p align="right"><i>"Talk is cheap. Show me the code." - Linus Torvalds</i></p>
