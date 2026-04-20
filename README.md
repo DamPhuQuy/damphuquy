@@ -29,7 +29,8 @@
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Backend** | <img src="https://skillicons.dev/icons?i=java,spring,maven,gradle,py" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=java,spring,py,scala,go,ts" /> |
+| **Build Tools** | <img src="https://skillicons.dev/icons?i=maven,gradle" /> | 
 | **Database** | <img src="https://skillicons.dev/icons?i=postgres,mysql" /> | 
 | **DevOps & Tools** | <img src="https://skillicons.dev/icons?i=docker,git,github,postman,swagger" /> |
 
