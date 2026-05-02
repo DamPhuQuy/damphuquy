@@ -36,15 +36,6 @@
 
 ---
 
-## GitHub Snapshot
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DamPhuQuy&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=FF5A5F&icon_color=FF5A5F&text_color=2D2D2D" alt="github-stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DamPhuQuy&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=FF5A5F&text_color=2D2D2D&hide=html,css" alt="top-langs" height="170" />
-</p>
-
----
-
 ## Let's Connect
 
 - GitHub: [github.com/DamPhuQuy](https://github.com/DamPhuQuy)
