@@ -34,6 +34,8 @@
   <img src="https://skillicons.dev/icons?i=maven,gradle,postgres,mysql,docker,git,github,postman" alt="tools" />
 </p>
 
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DamPhuQuy&layout=compact&theme=tokyonight&langs_count=8)
+
 ---
 
 ## Let's Connect
