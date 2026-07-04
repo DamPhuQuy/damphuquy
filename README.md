@@ -46,17 +46,17 @@
 - Backend-focused developer working mainly with **Java, Spring Boot, PostgreSQL, and Docker**
 - Interested in **API design, database modeling, authentication/authorization, and maintainable backend architecture**
 
-### Core Stack
+<h3 align="center">Core Stack</h3>
 
 <table width="100%">
   <tr>
-    <td valign="top" width="50%">
+    <td align="center" valign="top" width="50%">
       <h4>Backend Development</h4>
       <img src="https://img.shields.io/badge/Java-1a1b27?style=flat-square&logo=openjdk&logoColor=7aa2f7" alt="Java" />
       <img src="https://img.shields.io/badge/Spring_Boot-1a1b27?style=flat-square&logo=springboot&logoColor=9ece6a" alt="Spring Boot" />
       <img src="https://img.shields.io/badge/Go-1a1b27?style=flat-square&logo=go&logoColor=00D1FF" alt="Go" />
     </td>
-    <td valign="top" width="50%">
+    <td align="center" valign="top" width="50%">
       <h4>Databases & Caching</h4>
       <img src="https://img.shields.io/badge/PostgreSQL-1a1b27?style=flat-square&logo=postgresql&logoColor=7aa2f7" alt="PostgreSQL" />
       <img src="https://img.shields.io/badge/MySQL-1a1b27?style=flat-square&logo=mysql&logoColor=00D1FF" alt="MySQL" />
@@ -64,13 +64,13 @@
     </td>
   </tr>
   <tr>
-    <td valign="top" width="50%">
+    <td align="center" valign="top" width="50%">
       <h4>AI Integration</h4>
       <img src="https://img.shields.io/badge/Python-1a1b27?style=flat-square&logo=python&logoColor=9ece6a" alt="Python" />
       <img src="https://img.shields.io/badge/PyTorch-1a1b27?style=flat-square&logo=pytorch&logoColor=f7768e" alt="PyTorch" />
       <img src="https://img.shields.io/badge/RAG%20%2F%20Vector_DB-1a1b27?style=flat-square&logo=huggingface&logoColor=ff9e64" alt="RAG / Vector DB" />
     </td>
-    <td valign="top" width="50%">
+    <td align="center" valign="top" width="50%">
       <h4>DevOps & Infrastructure</h4>
       <img src="https://img.shields.io/badge/Docker-1a1b27?style=flat-square&logo=docker&logoColor=00D1FF" alt="Docker" />
       <img src="https://img.shields.io/badge/Git-1a1b27?style=flat-square&logo=git&logoColor=f7768e" alt="Git" />
@@ -78,13 +78,13 @@
     </td>
   </tr>
   <tr>
-    <td valign="top" width="50%">
+    <td align="center" valign="top" width="50%">
       <h4>Build & Development</h4>
       <img src="https://img.shields.io/badge/Maven-1a1b27?style=flat-square&logo=apachemaven&logoColor=7aa2f7" alt="Maven" />
       <img src="https://img.shields.io/badge/Gradle-1a1b27?style=flat-square&logo=gradle&logoColor=00D1FF" alt="Gradle" />
       <img src="https://img.shields.io/badge/Postman-1a1b27?style=flat-square&logo=postman&logoColor=bb9af7" alt="Postman" />
     </td>
-    <td valign="top" width="50%">
+    <td align="center" valign="top" width="50%">
       <h4>Web & Scripting</h4>
       <img src="https://img.shields.io/badge/TypeScript-1a1b27?style=flat-square&logo=typescript&logoColor=bb9af7" alt="TypeScript" />
     </td>
