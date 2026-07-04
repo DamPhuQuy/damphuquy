@@ -46,9 +46,9 @@
 - Backend-focused developer working mainly with **Java, Spring Boot, PostgreSQL, and Docker**
 - Interested in **API design, database modeling, authentication/authorization, and maintainable backend architecture**
 
-<h3 align="center">Core Stack</h3>
+<h3>Core Stack</h3>
 
-<table width="100%">
+<table align="center" width="100%">
   <tr>
     <td align="center" valign="top" width="50%">
       <h4>Backend Development</h4>
