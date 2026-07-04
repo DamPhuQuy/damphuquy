@@ -45,7 +45,6 @@
 - Student at **The University of Danang - University of Science and Technology**
 - Backend-focused developer working mainly with **Java, Spring Boot, PostgreSQL, and Docker**
 - Interested in **API design, database modeling, authentication/authorization, and maintainable backend architecture**
-- Currently building projects around **workspace management, team collaboration, and AI-assisted backend applications**
 
 ### Core Stack
 
