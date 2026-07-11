@@ -93,23 +93,44 @@
 
 ### GitHub Activity
 
-<p align="center">
-  <a href="https://github.com/DamPhuQuy">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=DamPhuQuy&show_icons=true&theme=tokyonight&count_private=true" alt="DamPhuQuy's GitHub Stats" height="185" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/DamPhuQuy">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=DamPhuQuy&theme=tokyonight&bg_color=1a1b27&hide_border=true" alt="DamPhuQuy's Activity Graph" width="100%" />
-  </a>
-</p>
-
-<br />
-
-<p align="right"><i>"Simplicity is the prerequisite for reliability." — Edsger W. Dijkstra</i></p>
-
 <div align="center">
-  <!-- Footer Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:1d2c4e&height=120&section=footer" alt="Footer Banner" width="100%" />
+
+  <a href="https://github.com/DamPhuQuy">
+    <img
+      src="https://github-readme-stats-sigma-five.vercel.app/api?username=DamPhuQuy&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+      alt="Phu Quy's GitHub statistics"
+      height="165"
+    />
+  </a>
+
+  <a href="https://github.com/DamPhuQuy">
+    <img
+      src="https://streak-stats.demolab.com?user=DamPhuQuy&theme=tokyonight&hide_border=true&background=1A1B27&ring=7AA2F7&fire=F7768E&currStreakLabel=7AA2F7"
+      alt="Phu Quy's contribution streak"
+      height="165"
+    />
+  </a>
+
+<br /><br />
+
+  <!-- Main contribution calendar -->
+  <a href="https://github.com/DamPhuQuy">
+    <img
+      src="./profile-3d-contrib/profile-night-rainbow.svg"
+      alt="Phu Quy's 3D contribution calendar"
+      width="100%"
+    />
+  </a>
+
+<br /><br />
+
+  <!-- Detailed activity timeline -->
+  <a href="https://github.com/DamPhuQuy">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=DamPhuQuy&bg_color=1a1b27&color=a9b1d6&line=7aa2f7&point=00d1ff&area=true&area_color=1d2c4e&hide_border=true&custom_title=Contribution%20Timeline"
+      alt="Phu Quy's contribution timeline"
+      width="100%"
+    />
+  </a>
+
 </div>
