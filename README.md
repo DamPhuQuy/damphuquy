@@ -88,7 +88,7 @@
 &nbsp;
 <img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/gradle/gradle-original.svg" alt="Gradle" title="Gradle" width="42" height="42" />
 &nbsp;
-<img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="42" height="42" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="42" height="42" />
 <br />
 <sub>Maven · Gradle · Docker</sub>
 </td>
