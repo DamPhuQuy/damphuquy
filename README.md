@@ -5,13 +5,16 @@
 
   <!-- Social badges -->
   <p align="center">
-    <a href="https://github.com/DamPhuQuy" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=00D1FF" alt="GitHub" />
+    <a href="https://github.com/DamPhuQuy">
+      <img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/github/github-original.svg" alt="GitHub" width="24" height="24" />
+      <strong> GitHub</strong>
     </a>
+    &nbsp;&nbsp;&nbsp;
     <a href="mailto:phuquydam06@gmail.com">
-      <img src="https://img.shields.io/badge/Email-1a1b27?style=for-the-badge&logo=gmail&logoColor=00D1FF" alt="Email" />
-    </a>
-  </p>
+    <img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/google/google-original.svg" alt="Email" width="24" height="24" />
+    <strong> Email</strong>
+  </a>
+</p>
 
   <!-- Typing Animation -->
   <p align="center">
@@ -21,17 +24,6 @@
   <!-- Slogan -->
   <p align="center">
     <strong>Building backend applications with Java, Spring Boot, PostgreSQL, and a strong focus on clean design and practical reliability.</strong>
-  </p>
-
-  <!-- Small focus badges -->
-  <p align="center">
-    <img src="https://img.shields.io/badge/API%20Design-1a1b27?style=flat-square&logo=postman&logoColor=7aa2f7" alt="API Design" />
-    &nbsp;
-    <img src="https://img.shields.io/badge/Auth%20%2F%20RBAC-1a1b27?style=flat-square&logo=jsonwebtokens&logoColor=bb9af7" alt="Auth / RBAC" />
-    &nbsp;
-    <img src="https://img.shields.io/badge/Database%20Design-1a1b27?style=flat-square&logo=postgresql&logoColor=9ece6a" alt="Database Design" />
-    &nbsp;
-    <img src="https://img.shields.io/badge/Clean%20Architecture-1a1b27?style=flat-square&logo=spring&logoColor=f7768e" alt="Clean Architecture" />
   </p>
 
 </div>
@@ -46,49 +38,67 @@
 - Backend-focused developer working mainly with **Java, Spring Boot, PostgreSQL, and Docker**
 - Interested in **API design, database modeling, authentication/authorization, and maintainable backend architecture**
 
-<h3>Core Stack</h3>
+<h3>Technology Stack</h3>
 
 <table align="center" width="100%">
-  <tr>
-    <td align="center" valign="top" width="50%">
-      <h4>Backend Development</h4>
-      <img src="https://img.shields.io/badge/Java-1a1b27?style=flat-square&logo=openjdk&logoColor=7aa2f7" alt="Java" />
-      <img src="https://img.shields.io/badge/Spring_Boot-1a1b27?style=flat-square&logo=springboot&logoColor=9ece6a" alt="Spring Boot" />
-      <img src="https://img.shields.io/badge/Go-1a1b27?style=flat-square&logo=go&logoColor=00D1FF" alt="Go" />
-    </td>
-    <td align="center" valign="top" width="50%">
-      <h4>Databases & Caching</h4>
-      <img src="https://img.shields.io/badge/PostgreSQL-1a1b27?style=flat-square&logo=postgresql&logoColor=7aa2f7" alt="PostgreSQL" />
-      <img src="https://img.shields.io/badge/MySQL-1a1b27?style=flat-square&logo=mysql&logoColor=00D1FF" alt="MySQL" />
-      <img src="https://img.shields.io/badge/Redis-1a1b27?style=flat-square&logo=redis&logoColor=f7768e" alt="Redis" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" valign="top" width="50%">
-      <h4>AI Integration</h4>
-      <img src="https://img.shields.io/badge/Python-1a1b27?style=flat-square&logo=python&logoColor=9ece6a" alt="Python" />
-      <img src="https://img.shields.io/badge/PyTorch-1a1b27?style=flat-square&logo=pytorch&logoColor=f7768e" alt="PyTorch" />
-      <img src="https://img.shields.io/badge/RAG%20%2F%20Vector_DB-1a1b27?style=flat-square&logo=huggingface&logoColor=ff9e64" alt="RAG / Vector DB" />
-    </td>
-    <td align="center" valign="top" width="50%">
-      <h4>DevOps & Infrastructure</h4>
-      <img src="https://img.shields.io/badge/Docker-1a1b27?style=flat-square&logo=docker&logoColor=00D1FF" alt="Docker" />
-      <img src="https://img.shields.io/badge/Git-1a1b27?style=flat-square&logo=git&logoColor=f7768e" alt="Git" />
-      <img src="https://img.shields.io/badge/GitHub-1a1b27?style=flat-square&logo=github&logoColor=7aa2f7" alt="GitHub" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" valign="top" width="50%">
-      <h4>Build & Development</h4>
-      <img src="https://img.shields.io/badge/Maven-1a1b27?style=flat-square&logo=apachemaven&logoColor=7aa2f7" alt="Maven" />
-      <img src="https://img.shields.io/badge/Gradle-1a1b27?style=flat-square&logo=gradle&logoColor=00D1FF" alt="Gradle" />
-      <img src="https://img.shields.io/badge/Postman-1a1b27?style=flat-square&logo=postman&logoColor=bb9af7" alt="Postman" />
-    </td>
-    <td align="center" valign="top" width="50%">
-      <h4>Web & Scripting</h4>
-      <img src="https://img.shields.io/badge/TypeScript-1a1b27?style=flat-square&logo=typescript&logoColor=bb9af7" alt="TypeScript" />
-    </td>
-  </tr>
+<tr>
+<td align="center" valign="top" width="50%">
+<h4>Backend Development</h4>
+<img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/java/java-original.svg" alt="Java" title="Java" width="42" height="42" />
+&nbsp;
+<img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/spring/spring-original.svg" alt="Spring Boot" title="Spring Boot" width="42" height="42" />
+&nbsp;
+<img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/go/go-original.svg" alt="Go" title="Go" width="42" height="42" />
+<br />
+<sub>Java · Spring Boot · Go</sub>
+</td>
+<td align="center" valign="top" width="50%">
+<h4>Data &amp; Storage</h4>
+<img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="42" height="42" />
+&nbsp;
+<img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/redis/redis-original.svg" alt="Redis" title="Redis" width="42" height="42" />
+<br />
+<sub>PostgreSQL · MySQL · Redis</sub>
+</td>
+</tr>
+<tr>
+<td align="center" valign="top" width="50%">
+<h4>AI &amp; Machine Learning</h4>
+<img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/python/python-original.svg" alt="Python" title="Python" width="42" height="42" />
+&nbsp;
+<img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/pytorch/pytorch-original.svg" alt="PyTorch" title="PyTorch" width="42" height="42" />
+<br />
+<sub>Python · PyTorch · RAG · Vector Databases</sub>
+</td>
+<td align="center" valign="top" width="50%">
+<h4>Development Workflow</h4>
+<img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/git/git-original.svg" alt="Git" title="Git" width="42" height="42" />
+&nbsp;
+<img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/github/github-original.svg" alt="GitHub" title="GitHub" width="42" height="42" />
+&nbsp;
+<img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/postman/postman-original.svg" alt="Postman" title="Postman" width="42" height="42" />
+<br />
+<sub>Git · GitHub · Postman</sub>
+</td>
+</tr>
+<tr>
+<td align="center" valign="top" width="50%">
+<h4>Build &amp; Delivery</h4>
+<img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/maven/maven-original.svg" alt="Maven" title="Maven" width="42" height="42" />
+&nbsp;
+<img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/gradle/gradle-original.svg" alt="Gradle" title="Gradle" width="42" height="42" />
+&nbsp;
+<img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="42" height="42" />
+<br />
+<sub>Maven · Gradle · Docker</sub>
+</td>
+<td align="center" valign="top" width="50%">
+<h4>Frontend Web Development</h4>
+<img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="42" height="42" />
+<br />
+<sub>TypeScript</sub>
+</td>
+</tr>
 </table>
 
 ### GitHub Activity
