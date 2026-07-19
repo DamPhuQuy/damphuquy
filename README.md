@@ -74,7 +74,7 @@
 <h4>Development Workflow</h4>
 <img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/git/git-original.svg" alt="Git" title="Git" width="42" height="42" />
 &nbsp;
-<img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/github/github-original.svg" alt="GitHub" title="GitHub" width="42" height="42" />
+<img src="https://cdn.simpleicons.org/github/58A6FF" alt="GitHub" title="GitHub" width="42" height="42" />
 &nbsp;
 <img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/postman/postman-original.svg" alt="Postman" title="Postman" width="42" height="42" />
 <br />
