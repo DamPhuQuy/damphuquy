@@ -6,7 +6,7 @@
   <!-- Social badges -->
   <p align="center">
     <a href="https://github.com/DamPhuQuy">
-      <img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/github/github-original.svg" alt="GitHub" width="24" height="24" />
+      <img src="https://cdn.simpleicons.org/github/58A6FF" alt="GitHub" title="GitHub" width="24" height="24" />
       <strong> GitHub</strong>
     </a>
     &nbsp;&nbsp;&nbsp;
