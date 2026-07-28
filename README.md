@@ -113,24 +113,14 @@
     />
   </a>
 
-  <a href="https://github.com/DamPhuQuy">
-    <img
-      src="https://streak-stats.demolab.com?user=DamPhuQuy&theme=tokyonight&hide_border=true&background=1A1B27&ring=7AA2F7&fire=F7768E&currStreakLabel=7AA2F7"
-      alt="Phu Quy's contribution streak"
-      height="165"
-    />
-  </a>
-
 <br /><br />
 
-  <!-- Main contribution calendar -->
-  <a href="https://github.com/DamPhuQuy">
-    <img
-      src="profile-3d-contrib/profile-night-rainbow.svg"
-      alt="Phu Quy's 3D contribution calendar"
-      width="100%"
-    />
-  </a>
+  <!-- Snake contribution animation -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DamPhuQuy/damphuquy/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DamPhuQuy/damphuquy/output/github-contribution-grid-snake.svg" />
+    <img alt="Phu Quy's contribution snake animation" src="https://raw.githubusercontent.com/DamPhuQuy/damphuquy/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
 
 <br /><br />
 
