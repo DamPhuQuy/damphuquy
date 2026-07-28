@@ -5,6 +5,10 @@ on:
     # 03:00 ICT = 20:00 UTC ngày hôm trước
     - cron: "0 20 * * *"
 
+  push:
+    branches:
+      - main
+
   workflow_dispatch:
 
 permissions:
@@ -16,7 +20,7 @@ jobs:
 
     steps:
       - name: Checkout profile repository
-        uses: actions/checkout@v5
+        uses: actions/checkout@v4
 
       - name: Generate contribution graph
         uses: yoshi389111/github-profile-3d-contrib@v0.9.3

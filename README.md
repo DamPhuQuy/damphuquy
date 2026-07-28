@@ -126,7 +126,7 @@
   <!-- Main contribution calendar -->
   <a href="https://github.com/DamPhuQuy">
     <img
-      src="./profile-3d-contrib/profile-night-rainbow.svg"
+      src="profile-3d-contrib/profile-night-rainbow.svg"
       alt="Phu Quy's 3D contribution calendar"
       width="100%"
     />
