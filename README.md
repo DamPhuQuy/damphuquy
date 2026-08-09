@@ -103,18 +103,6 @@
 
 ### GitHub Activity
 
-<div align="center">
-
-  <a href="https://github.com/DamPhuQuy">
-    <img
-      src="https://github-readme-stats-sigma-five.vercel.app/api?username=DamPhuQuy&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
-      alt="Phu Quy's GitHub statistics"
-      height="165"
-    />
-  </a>
-
-<br /><br />
-
   <!-- Snake contribution animation -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="dist/github-contribution-grid-snake-dark.svg" />
