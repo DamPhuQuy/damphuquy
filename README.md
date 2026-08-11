@@ -66,9 +66,8 @@
 <h4>AI &amp; Machine Learning</h4>
 <img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/python/python-original.svg" alt="Python" title="Python" width="42" height="42" />
 &nbsp;
-<img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/pytorch/pytorch-original.svg" alt="PyTorch" title="PyTorch" width="42" height="42" />
 <br />
-<sub>Python · PyTorch · RAG · Vector Databases</sub>
+<sub>Python · RAG · Vector Databases</sub>
 </td>
 <td align="center" valign="top" width="50%">
 <h4>Development Workflow</h4>
