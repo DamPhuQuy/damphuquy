@@ -63,7 +63,7 @@
 </tr>
 <tr>
 <td align="center" valign="top" width="50%">
-<h4>AI &amp; Machine Learning</h4>
+<h4>AI Application</h4>
 <img src="https://cdn.jsdelivr.net/npm/devicon@2.17.0/icons/python/python-original.svg" alt="Python" title="Python" width="42" height="42" />
 &nbsp;
 <br />
