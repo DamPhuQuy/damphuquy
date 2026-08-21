@@ -100,6 +100,10 @@
 </tr>
 </table>
 
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=DamPhuQuy&layout=compact&langs_count=4&theme=radical" width="350">
+</p>
+
 ### GitHub Activity
 
   <!-- Snake contribution animation -->
@@ -119,5 +123,9 @@
       width="100%"
     />
   </a>
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=DamPhuQuy&rank_icon=github&include_all_commits=true&theme=dracula" width="450">
+</p>
 
 </div>
