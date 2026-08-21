@@ -104,6 +104,10 @@
   <img src="https://github-stats-extended.vercel.app/api/top-langs?username=DamPhuQuy&layout=compact&langs_count=4&theme=radical" width="350">
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="Divider" width="100%" />
+</p>
+
 ### GitHub Activity
 
   <!-- Snake contribution animation -->
