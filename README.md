@@ -119,15 +119,6 @@
 
 <br /><br />
 
-  <!-- Detailed activity timeline -->
-  <a href="https://github.com/DamPhuQuy">
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=DamPhuQuy&bg_color=1a1b27&color=a9b1d6&line=7aa2f7&point=00d1ff&area=true&area_color=1d2c4e&hide_border=true&custom_title=Contribution%20Timeline"
-      alt="Phu Quy's contribution timeline"
-      width="100%"
-    />
-  </a>
-
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=DamPhuQuy&rank_icon=github&include_all_commits=true&theme=dracula" width="450">
 </p>
