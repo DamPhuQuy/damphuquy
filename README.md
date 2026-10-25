@@ -9,6 +9,8 @@ I'm a student at **The University of Danang – University of Science and Techno
 
 I'm especially interested in the decisions behind an application: how data flows, where complexity belongs, and what happens beyond the happy path.
 
+<img src="./assets/system-telemetry.svg" alt="System Telemetry" width="100%" />
+
 [Email](mailto:phuquydam06@gmail.com) · [GitHub](https://github.com/DamPhuQuy)
 
 ---
@@ -19,13 +21,13 @@ I'm especially interested in the decisions behind an application: how data flows
 
     - Working as Backend Developer and AI Application Developer
 
-    - <sub>Typescript · Java · Python · Agile/Scrum</sub>
+    - <sub><img src="./icons/TypeScript.svg" width="14" height="14" valign="middle" alt="TypeScript" /> TypeScript · <img src="./icons/Java-Dark.svg" width="14" height="14" valign="middle" alt="Java" /> Java · <img src="./icons/Python-Dark.svg" width="14" height="14" valign="middle" alt="Python" /> Python · Agile/Scrum</sub>
 
 - **[Artificial Intelligence DUT club](https://github.com/DUT-AI)**
 
     - Working as AI Application Developer
 
-    - <sub>Typescript · Python · ML/DL · RAG</sub>
+    - <sub><img src="./icons/TypeScript.svg" width="14" height="14" valign="middle" alt="TypeScript" /> TypeScript · <img src="./icons/Python-Dark.svg" width="14" height="14" valign="middle" alt="Python" /> Python · <img src="./icons/PyTorch-Dark.svg" width="14" height="14" valign="middle" alt="PyTorch" /> ML/DL · RAG</sub>
 
 ---
 
@@ -33,10 +35,10 @@ I'm especially interested in the decisions behind an application: how data flows
 
 | Area               | Tools & technologies                            |
 | :----------------- | :---------------------------------------------- |
-| **Backend**        | Java(Spring Boot), Python(FastAPI), Ruby(Rails) |
-| **Data**           | PostgreSQL, Redis                               |
-| **Infrastructure** | Docker, Maven, Gradle, GitHub Actions           |
-| **Exploring**      | Python, RAG, AI agents, system design           |
+| **Backend**        | <img src="./icons/Java-Dark.svg" width="24" height="24" alt="Java" /> <img src="./icons/Spring-Dark.svg" width="24" height="24" alt="Spring Boot" /> <img src="./icons/Python-Dark.svg" width="24" height="24" alt="Python" /> <img src="./icons/FastAPI.svg" width="24" height="24" alt="FastAPI" /> <img src="./icons/Ruby.svg" width="24" height="24" alt="Ruby" /> <img src="./icons/Rails.svg" width="24" height="24" alt="Ruby on Rails" /><br/><sub>Java (Spring Boot) · Python (FastAPI) · Ruby (Rails)</sub> |
+| **Data**           | <img src="./icons/PostgreSQL-Dark.svg" width="24" height="24" alt="PostgreSQL" /> <img src="./icons/Redis-Dark.svg" width="24" height="24" alt="Redis" /><br/><sub>PostgreSQL · Redis</sub> |
+| **Infrastructure** | <img src="./icons/Docker.svg" width="24" height="24" alt="Docker" /> <img src="./icons/Maven-Dark.svg" width="24" height="24" alt="Maven" /> <img src="./icons/Gradle-Dark.svg" width="24" height="24" alt="Gradle" /> <img src="./icons/GithubActions-Dark.svg" width="24" height="24" alt="GitHub Actions" /><br/><sub>Docker · Maven · Gradle · GitHub Actions</sub> |
+| **Exploring**      | <img src="./icons/Python-Dark.svg" width="24" height="24" alt="Python" /> <img src="./icons/PyTorch-Dark.svg" width="24" height="24" alt="PyTorch" /><br/><sub>Python · RAG · AI agents · System design</sub> |
 
 ---
 

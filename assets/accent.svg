@@ -1,6 +1,24 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="104" height="8" viewBox="0 0 104 8" role="img" aria-label="Four small color accents">
-  <rect x="0" y="0" width="38" height="8" rx="4" fill="#4285F4"/>
-  <rect x="44" y="0" width="16" height="8" rx="4" fill="#EA4335"/>
-  <rect x="66" y="0" width="16" height="8" rx="4" fill="#F9AB00"/>
-  <rect x="88" y="0" width="16" height="8" rx="4" fill="#34A853"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="104" height="8" viewBox="0 0 104 8" role="img" aria-label="Four small color accents with subtle shimmer">
+  <defs>
+    <linearGradient id="shimmer" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0" />
+      <stop offset="50%" stop-color="#ffffff" stop-opacity="0.65" />
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0" />
+      <animate attributeName="x1" from="-100%" to="200%" dur="3.2s" repeatCount="indefinite" />
+      <animate attributeName="x2" from="0%" to="300%" dur="3.2s" repeatCount="indefinite" />
+    </linearGradient>
+    <mask id="bar-mask">
+      <rect x="0" y="0" width="38" height="8" rx="4" fill="#ffffff" />
+      <rect x="44" y="0" width="16" height="8" rx="4" fill="#ffffff" />
+      <rect x="66" y="0" width="16" height="8" rx="4" fill="#ffffff" />
+      <rect x="88" y="0" width="16" height="8" rx="4" fill="#ffffff" />
+    </mask>
+  </defs>
+  <!-- Base Color Accents -->
+  <rect x="0" y="0" width="38" height="8" rx="4" fill="#4285F4" />
+  <rect x="44" y="0" width="16" height="8" rx="4" fill="#EA4335" />
+  <rect x="66" y="0" width="16" height="8" rx="4" fill="#F9AB00" />
+  <rect x="88" y="0" width="16" height="8" rx="4" fill="#34A853" />
+  <!-- Subtle Shimmer Overlay -->
+  <rect x="0" y="0" width="104" height="8" fill="url(#shimmer)" mask="url(#bar-mask)" />
 </svg>

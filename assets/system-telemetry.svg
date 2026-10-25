@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 76" fill="none" role="img" aria-label="System Telemetry and Health Pulse">
+  <style>
+    .telemetry-card {
+      fill: #ffffff;
+      stroke: #e1e4e8;
+      stroke-width: 1.2;
+    }
+    .metric-label {
+      font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+      font-size: 10px;
+      font-weight: 500;
+      fill: #6e7781;
+      letter-spacing: 0.5px;
+    }
+    .metric-value {
+      font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+      font-size: 11.5px;
+      font-weight: 600;
+      fill: #24292f;
+      letter-spacing: 0.2px;
+    }
+    .track-line {
+      stroke: #e1e4e8;
+      stroke-width: 1;
+      stroke-dasharray: 2 3;
+    }
+    .pulse-path {
+      stroke: #34A853;
+      stroke-width: 1.8;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      fill: none;
+      stroke-dasharray: 450;
+      stroke-dashoffset: 450;
+      animation: heartbeat 3.6s cubic-bezier(0.4, 0, 0.2, 1) infinite;
+    }
+    @keyframes heartbeat {
+      0% { stroke-dashoffset: 450; opacity: 0.2; }
+      35% { stroke-dashoffset: 0; opacity: 1; }
+      70%, 100% { stroke-dashoffset: -450; opacity: 0.2; }
+    }
+    @media (prefers-color-scheme: dark) {
+      .telemetry-card {
+        fill: #161b22;
+        stroke: #30363d;
+      }
+      .metric-label {
+        fill: #8b949e;
+      }
+      .metric-value {
+        fill: #e6edf3;
+      }
+      .track-line {
+        stroke: #30363d;
+      }
+    }
+  </style>
+
+  <!-- Container Box -->
+  <rect x="1" y="1" width="758" height="74" rx="8" class="telemetry-card" />
+
+  <!-- Metric 1: System State -->
+  <g transform="translate(24, 22)">
+    <circle cx="3" cy="20" r="3.5" fill="#34A853" />
+    <text x="14" y="9" class="metric-label">CORE STATE</text>
+    <text x="14" y="24" class="metric-value">OPERATIONAL</text>
+  </g>
+
+  <!-- Metric 2: Architecture Focus -->
+  <g transform="translate(185, 22)">
+    <text x="0" y="9" class="metric-label">FOCUS</text>
+    <text x="0" y="24" class="metric-value">TO LOVE YOU</text>
+  </g>
+
+  <!-- Metric 3: Reliability -->
+  <g transform="translate(370, 22)">
+    <text x="0" y="9" class="metric-label">DESIGN GOAL</text>
+    <text x="0" y="24" class="metric-value">BEYOND HAPPY PATH</text>
+  </g>
+
+  <!-- Animated Latency / Heartbeat ECG Waveform -->
+  <g transform="translate(550, 42)">
+    <!-- Base track line -->
+    <line x1="0" y1="0" x2="185" y2="0" class="track-line" />
+    <!-- Pulse signal -->
+    <path class="pulse-path" d="M 0 0 L 45 0 L 55 -15 L 65 17 L 75 -9 L 85 7 L 95 0 L 185 0" />
+  </g>
+</svg>
