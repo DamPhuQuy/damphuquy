@@ -15,17 +15,17 @@ I'm especially interested in the decisions behind an application: how data flows
 
 ### Experience
 
-**[Google Developer Groups on Campus - DUT](https://github.com/dscdut)**
+- **[Google Developer Groups on Campus - DUT](https://github.com/dscdut)**
 
-Working as Backend Developer and AI Application Developer
+    - Working as Backend Developer and AI Application Developer
 
-<sub>Typescript · Java · Python · Agile/Scrum</sub>
+    - <sub>Typescript · Java · Python · Agile/Scrum</sub>
 
-**[Artificial Intelligence DUT club](https://github.com/DUT-AI)**
+- **[Artificial Intelligence DUT club](https://github.com/DUT-AI)**
 
-Working as AI Application Developer
+    - Working as AI Application Developer
 
-<sub>Typescript · Python · ML/DL · RAG</sub>
+    - <sub>Typescript · Python · ML/DL · RAG</sub>
 
 ---
 
