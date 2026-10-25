@@ -16,23 +16,27 @@ I'm especially interested in the decisions behind an application: how data flows
 ### Experience
 
 **[Google Developer Groups on Campus - DUT](https://github.com/dscdut)**
+
 Working as Backend Developer and AI Application Developer
+
 <sub>Typescript · Java · Python · Agile/Scrum</sub>
 
 **[Artificial Intelligence DUT club](https://github.com/DUT-AI)**
+
 Working as AI Application Developer
+
 <sub>Typescript · Python · ML/DL · RAG</sub>
 
 ---
 
 ### Engineering toolkit
 
-| Area | Tools & technologies |
-| :--- | :--- |
-| **Backend** | Java(Spring Boot), Python(FastAPI), Ruby(Rails) |
-| **Data** | PostgreSQL, Redis |
-| **Infrastructure** | Docker, Maven, Gradle, GitHub Actions |
-| **Exploring** | Python, RAG, AI agents, system design |
+| Area               | Tools & technologies                            |
+| :----------------- | :---------------------------------------------- |
+| **Backend**        | Java(Spring Boot), Python(FastAPI), Ruby(Rails) |
+| **Data**           | PostgreSQL, Redis                               |
+| **Infrastructure** | Docker, Maven, Gradle, GitHub Actions           |
+| **Exploring**      | Python, RAG, AI agents, system design           |
 
 ---
 
