@@ -17,28 +17,24 @@ I'm especially interested in the decisions behind an application: how data flows
 
 ### Experience
 
-- **[Google Developer Groups on Campus - DUT](https://github.com/dscdut)**
+#### [Google Developer Groups on Campus - DUT](https://github.com/dscdut)
+> **Backend & AI Application Developer**  
+> <sub><img src="./icons/TypeScript.svg" width="14" height="14" valign="middle" alt="TypeScript" /> TypeScript · <img src="./icons/Java-Dark.svg" width="14" height="14" valign="middle" alt="Java" /> Java · <img src="./icons/Python-Dark.svg" width="14" height="14" valign="middle" alt="Python" /> Python · Agile/Scrum</sub>
 
-    - Working as Backend Developer and AI Application Developer
-
-    - <sub><img src="./icons/TypeScript.svg" width="14" height="14" valign="middle" alt="TypeScript" /> TypeScript · <img src="./icons/Java-Dark.svg" width="14" height="14" valign="middle" alt="Java" /> Java · <img src="./icons/Python-Dark.svg" width="14" height="14" valign="middle" alt="Python" /> Python · Agile/Scrum</sub>
-
-- **[Artificial Intelligence DUT club](https://github.com/DUT-AI)**
-
-    - Working as AI Application Developer
-
-    - <sub><img src="./icons/TypeScript.svg" width="14" height="14" valign="middle" alt="TypeScript" /> TypeScript · <img src="./icons/Python-Dark.svg" width="14" height="14" valign="middle" alt="Python" /> Python · <img src="./icons/PyTorch-Dark.svg" width="14" height="14" valign="middle" alt="PyTorch" /> ML/DL · RAG</sub>
+#### [Artificial Intelligence DUT club](https://github.com/DUT-AI)
+> **AI Application Developer**  
+> <sub><img src="./icons/TypeScript.svg" width="14" height="14" valign="middle" alt="TypeScript" /> TypeScript · <img src="./icons/Python-Dark.svg" width="14" height="14" valign="middle" alt="Python" /> Python · <img src="./icons/PyTorch-Dark.svg" width="14" height="14" valign="middle" alt="PyTorch" /> ML/DL · RAG</sub>
 
 ---
 
 ### Engineering toolkit
 
-| Area               | Tools & technologies                            |
-| :----------------- | :---------------------------------------------- |
-| **Backend**        | <img src="./icons/Java-Dark.svg" width="24" height="24" alt="Java" /> <img src="./icons/Spring-Dark.svg" width="24" height="24" alt="Spring Boot" /> <img src="./icons/Python-Dark.svg" width="24" height="24" alt="Python" /> <img src="./icons/FastAPI.svg" width="24" height="24" alt="FastAPI" /> <img src="./icons/Ruby.svg" width="24" height="24" alt="Ruby" /> <img src="./icons/Rails.svg" width="24" height="24" alt="Ruby on Rails" /><br/><sub>Java (Spring Boot) · Python (FastAPI) · Ruby (Rails)</sub> |
-| **Data**           | <img src="./icons/PostgreSQL-Dark.svg" width="24" height="24" alt="PostgreSQL" /> <img src="./icons/Redis-Dark.svg" width="24" height="24" alt="Redis" /><br/><sub>PostgreSQL · Redis</sub> |
-| **Infrastructure** | <img src="./icons/Docker.svg" width="24" height="24" alt="Docker" /> <img src="./icons/Maven-Dark.svg" width="24" height="24" alt="Maven" /> <img src="./icons/Gradle-Dark.svg" width="24" height="24" alt="Gradle" /> <img src="./icons/GithubActions-Dark.svg" width="24" height="24" alt="GitHub Actions" /><br/><sub>Docker · Maven · Gradle · GitHub Actions</sub> |
-| **Exploring**      | <img src="./icons/Python-Dark.svg" width="24" height="24" alt="Python" /> <img src="./icons/PyTorch-Dark.svg" width="24" height="24" alt="PyTorch" /><br/><sub>Python · RAG · AI agents · System design</sub> |
+| Area | Toolkit & Technology |
+| :--- | :--- |
+| **Backend** | <img src="./icons/Java-Dark.svg" width="16" height="16" valign="middle" /> Java (Spring Boot) &nbsp;·&nbsp; <img src="./icons/Python-Dark.svg" width="16" height="16" valign="middle" /> Python (FastAPI) &nbsp;·&nbsp; <img src="./icons/TypeScript.svg" width="16" height="16" valign="middle" /> Typescript (Nestjs) &nbsp;·&nbsp; <img src="./icons/Ruby.svg" width="16" height="16" valign="middle" /> Ruby (Rails) |
+| **Data** | <img src="./icons/PostgreSQL-Dark.svg" width="16" height="16" valign="middle" /> PostgreSQL &nbsp;·&nbsp; <img src="./icons/Redis-Dark.svg" width="16" height="16" valign="middle" /> Redis |
+| **Infrastructure** | <img src="./icons/Docker.svg" width="16" height="16" valign="middle" /> Docker &nbsp;·&nbsp; <img src="./icons/Maven-Dark.svg" width="16" height="16" valign="middle" /> Maven &nbsp;·&nbsp; <img src="./icons/Gradle-Dark.svg" width="16" height="16" valign="middle" /> Gradle |
+| **Exploring** | <img src="./icons/Python-Dark.svg" width="16" height="16" valign="middle" /> Python &nbsp;·&nbsp; <img src="./icons/PyTorch-Dark.svg" width="16" height="16" valign="middle" /> PyTorch &nbsp;·&nbsp; RAG &nbsp;·&nbsp; AI Agents &nbsp;·&nbsp; System Design |
 
 ---
 
