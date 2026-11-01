@@ -18,13 +18,18 @@ I'm especially interested in the decisions behind an application: how data flows
 ### Experience
 
 #### [Google Developer Groups on Campus - DUT](https://github.com/dscdut)
-> **Backend & AI Application Developer**  
-> <sub><img src="./icons/TypeScript.svg" width="14" height="14" valign="middle" alt="TypeScript" /> TypeScript · <img src="./icons/Java-Dark.svg" width="14" height="14" valign="middle" alt="Java" /> Java · <img src="./icons/Python-Dark.svg" width="14" height="14" valign="middle" alt="Python" /> Python · Agile/Scrum</sub>
+> **Vice Leader of AI Department** • *Sep 2026 – Present*  
+> <sub>AI Application Developer & manage more than 10+ people, organize to share new things</sub>
+> 
+> **Backend Developer** • *Sep 2025 – Sep 2026*  
+> <sub><img src="./icons/TypeScript.svg" width="13" height="13" valign="middle" /> TypeScript &nbsp;|&nbsp; <img src="./icons/Java-Dark.svg" width="13" height="13" valign="middle" /> Java &nbsp;|&nbsp; <img src="./icons/Python-Dark.svg" width="13" height="13" valign="middle" /> Python &nbsp;|&nbsp; Agile/Scrum</sub>
 
-#### [Artificial Intelligence DUT club](https://github.com/DUT-AI)
-> **AI Application Developer**  
-> <sub><img src="./icons/TypeScript.svg" width="14" height="14" valign="middle" alt="TypeScript" /> TypeScript · <img src="./icons/Python-Dark.svg" width="14" height="14" valign="middle" alt="Python" /> Python · <img src="./icons/PyTorch-Dark.svg" width="14" height="14" valign="middle" alt="PyTorch" /> ML/DL · RAG</sub>
-
+#### [Artificial Intelligence DUT Club](https://github.com/DUT-AI)
+> **Project Developer & Trainer** • *Oct 2026 – Present*
+> Develop products & organize to share new interesting things
+> 
+> **AI Application Developer** • *Sep 2025 – Oct 2026*  
+> <sub><img src="./icons/TypeScript.svg" width="13" height="13" valign="middle" /> TypeScript &nbsp;|&nbsp; <img src="./icons/Python-Dark.svg" width="13" height="13" valign="middle" /> Python &nbsp;|&nbsp; <img src="./icons/PyTorch-Dark.svg" width="13" height="13" valign="middle" /> ML/DL &nbsp;|&nbsp; RAG</sub>
 ---
 
 ### Engineering toolkit
