@@ -26,7 +26,7 @@ I'm especially interested in the decisions behind an application: how data flows
 
 #### [Artificial Intelligence DUT Club](https://github.com/DUT-AI)
 > **Project Developer & Trainer** • *Oct 2026 – Present*
-> Develop products & organize to share new interesting things
+> <sub>Develop products & organize to share new interesting things</sub>
 > 
 > **AI Application Developer** • *Sep 2025 – Oct 2026*  
 > <sub><img src="./icons/TypeScript.svg" width="13" height="13" valign="middle" /> TypeScript &nbsp;|&nbsp; <img src="./icons/Python-Dark.svg" width="13" height="13" valign="middle" /> Python &nbsp;|&nbsp; <img src="./icons/PyTorch-Dark.svg" width="13" height="13" valign="middle" /> ML/DL &nbsp;|&nbsp; RAG</sub>
