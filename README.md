@@ -25,7 +25,7 @@ I'm especially interested in the decisions behind an application: how data flows
 > <sub><img src="./icons/TypeScript.svg" width="13" height="13" valign="middle" /> TypeScript &nbsp;|&nbsp; <img src="./icons/Java-Dark.svg" width="13" height="13" valign="middle" /> Java &nbsp;|&nbsp; <img src="./icons/Python-Dark.svg" width="13" height="13" valign="middle" /> Python &nbsp;|&nbsp; Agile/Scrum</sub>
 
 #### [Artificial Intelligence DUT Club](https://github.com/DUT-AI)
-> **Project Developer & Trainer** • *Oct 2026 – Present*
+> **Project Developer & Trainer** • *Oct 2026 – Present*  
 > <sub>Develop products & organize to share new interesting things</sub>
 > 
 > **AI Application Developer** • *Sep 2025 – Oct 2026*  
